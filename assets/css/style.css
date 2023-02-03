@@ -31,17 +31,17 @@ textarea {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #d3d3d3d4;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #a3ff6e;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #90ebff;
   color: white;
 }
 
@@ -50,10 +50,14 @@ textarea {
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: #06aed5;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
+}
+
+.current-day {
+  font-size: 12px;
 }
