@@ -12,6 +12,7 @@ I am working on this simple calendar application titled "Christy's Work Day Sche
 ### 2/2/23 Submission Details
 * Screenshot of the live page. ![Live Webpage Screenshot](Images\screenshot-live-browser.png)
 
-* Link to the deployed GitHub page: https://github.com/ChristyGHanson/My-Workday-Scheduler.git
+* URL for the deployed application: https://christyghanson.github.io/My-Workday-Scheduler/
+* URL of the GitHub remote repo: https://github.com/ChristyGHanson/My-Workday-Scheduler
 
 
