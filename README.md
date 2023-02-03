@@ -10,7 +10,7 @@ I am working on this simple calendar application titled "Christy's Work Day Sche
 * The time and date in GMT are displayed at the bottom of the website using the [Day.js](https://day.js.org/en/) library which works specifically with date and time.
 
 ### 2/2/23 Submission Details
-* Screenshot of the live page. ![Live Webpage Screenshot](Images\screenshot-live-browser.png)
+* Screenshot of the live page: ![Screenshot](images/screenshot.jpg)
 
 * URL for the deployed application: https://christyghanson.github.io/My-Workday-Scheduler/
 * URL of the GitHub remote repo: https://github.com/ChristyGHanson/My-Workday-Scheduler
